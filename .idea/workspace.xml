@@ -27,6 +27,8 @@
       <change afterPath="$PROJECT_DIR$/appvue/src/modules/mutation.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/appvue/src/router.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/appvue/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appvue" beforeDir="false" afterPath="$PROJECT_DIR$/appvue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appvue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appvue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appvue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/src/App.vue" afterDir="false" />
@@ -80,7 +82,7 @@
       <workItem from="1690188002113" duration="6825000" />
       <workItem from="1690198891843" duration="19306000" />
       <workItem from="1690228060977" duration="3288000" />
-      <workItem from="1690263805143" duration="4460000" />
+      <workItem from="1690263805143" duration="5095000" />
     </task>
     <servers />
   </component>
