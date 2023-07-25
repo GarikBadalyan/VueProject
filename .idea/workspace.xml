@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a2971dc-b3e4-4ff3-b1e6-0e22ddc6de78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/appvue/src/AppMessageOne.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/AppMessageOne1.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/AppMessageTwo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/AppSlots.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/BeforeMixinsComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/ComponentPrevent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/InputRefsComponents.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MethodsLifecycleHooks.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MixinsComponentOne.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MountList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MyComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MyNotes.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MyNotesInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/MyNotesList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/Poxos.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/StoreCounter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/TheComponentOne.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/TheComponentTree.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/TheComponentTwo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/ThirdInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/messageMixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/modules/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/modules/mutation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appvue/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appvue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appvue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appvue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appvue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appvue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/appvue/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/appvue" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2NozETzjhzFEfY14bgthmRoZ1bk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/var/www/brovisor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a2971dc-b3e4-4ff3-b1e6-0e22ddc6de78" name="Default Changelist" comment="" />
+      <created>1680345112588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680345112588</updated>
+      <workItem from="1680345113872" duration="9367000" />
+      <workItem from="1690176375096" duration="1516000" />
+      <workItem from="1690182008533" duration="1713000" />
+      <workItem from="1690188002113" duration="6825000" />
+      <workItem from="1690198891843" duration="19306000" />
+      <workItem from="1690228060977" duration="3288000" />
+      <workItem from="1690263805143" duration="4460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
